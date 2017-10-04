@@ -37,6 +37,7 @@
   "dependencies": {
     "ajv": "^5.2.3",
     "bluebird": "^3.5.0",
+    "json-pointer": "^0.6.0",
     "lodash": "^4.17.4"
   }
 }
