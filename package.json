@@ -1,6 +1,6 @@
 {
   "name": "emjen",
-  "version": "0.1.1-rc1",
+  "version": "0.1.1",
   "description": "A library for creating durable job engines comprising orchestrator and worker components using AWS DynamoDB and SQS",
   "main": "index.js",
   "scripts": {
