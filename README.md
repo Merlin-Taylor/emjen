@@ -1,3 +1,10 @@
+# DEPRECATED
+
+There are way better tools out there for running workflows. Examples:
+
+- [Apache Airflow](https://airflow.apache.org/)
+- [AWS Step Functions](https://aws.amazon.com/step-functions/)
+
 # emjen
 
 [![Build Status](https://travis-ci.org/Merlin-Taylor/emjen.svg?branch=master)](https://travis-ci.org/Merlin-Taylor/emjen)
